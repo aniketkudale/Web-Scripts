@@ -1,7 +1,7 @@
 /* 
  * By: Aniket Kudale
  * Email: aniket.kudale@hotmail.com
- * Javascipt Function for Visiting URL Multiple Times
+ * Javascript Function for Visiting URL Multiple Times
  * Dated: 20-04-2014
  */
 
